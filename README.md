@@ -7,18 +7,26 @@ This file contains 24 problem statements solved during the first capstone projec
 It covers:
 
 **1.SELECT, WHERE, GROUP BY, ORDER BY**
+
 **2.JOINS (INNER, LEFT, RIGHT)**
+
 **3.WINDOW FUNCTIONS**
+
 **4.Aggregate functions**
+
 **5.Subqueries & CTEs**
 
 --
 ## Tools & Skills Used
 **1.MySQL / PostgreSQL**
+
 **2.DDL, DML Queries**
+
 **3.Joins & Relationships**
+
 **4.Window Functions (LAG, LEAD, ROW_NUMBER)**
-**.Subqueries & CTE**
+
+**5.Subqueries & CTE**
 
 --
 ## Purpose of This Repo
